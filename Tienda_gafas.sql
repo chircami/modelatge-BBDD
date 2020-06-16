@@ -1,0 +1,1 @@
+SELECT * FROM Tienda_de_gafas.Clientes_has_Gafas;
